@@ -5,7 +5,8 @@ used Bootstrap Jquery
 
 migrate DB :
 
-composer upload 
+composer update
+
 php artisan migrate
 
 start project : php artisan serve
